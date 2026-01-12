@@ -42,7 +42,7 @@ head = {
 }
 
 COURSE_TYPE = {'bxxk': "通识必修选课", 'xxxk': "通识选修选课", "kzyxk": '培养方案内课程',
-               "zynknjxk": '非培养方案内课程', "cxxk": '重修选课', "jhnxk": '计划内选课新生'}
+               "zynknjxk": '非培养方案内课程', "cxxk": '重修选课', "jhnxk": '计划内选课新生', "fanxk": '方案内选课'}
 
 TIMEOUT = 1.2 # 线程喵课间隔
 
